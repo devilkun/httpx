@@ -23,7 +23,7 @@ flake8-bugbear==21.4.3
 flake8-pie==0.5.0
 isort==5.9.1
 mypy==0.910
-types-certifi==0.1.4
+types-certifi==2020.4.0
 pytest==6.2.4
 pytest-asyncio==0.15.1
 pytest-trio==0.7.0
